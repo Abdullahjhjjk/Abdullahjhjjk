@@ -1,25 +1,31 @@
 }
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Abdullah%20Mansour&fontAlignY=35"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdullah Mansour</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
 <p align="center">
-💻 I build modern, responsive, and clean user interfaces  
-🚀 Passionate about Web Development and continuous learning  
+💻 I build clean & responsive websites  
+🚀 Passionate about Web Development  
+🌱 Always learning & improving
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 * 👨‍💻 My name is **Abdullah Mansour**
-* 🌱 Currently learning **JavaScript & Front-End Development**
-* 🎯 Goal: Become a professional **Web Developer**
-* 💡 Interested in UI/UX and clean code
+* 🌐 Web Developer (Front-End)
+* 🧠 Skills: **HTML, CSS, JavaScript**
+* 🎯 Goal: Become a professional Web Developer
+* ❤️ I enjoy building simple & beautiful UI
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
@@ -32,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
 
@@ -40,21 +46,21 @@
 
 ---
 
-### 📂 My Projects
+## 📂 Projects
 
 * 🌐 Responsive Websites
 * 🎨 Landing Pages
-* 🧠 JavaScript Mini Projects
+* ⚙️ JavaScript Mini Projects
 
-> 🔗 Check my repositories to see my work
+👉 Check my repositories to see my work
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
 * 💼 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 * 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, don’t forget to star my repositories!
